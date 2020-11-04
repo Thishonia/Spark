@@ -9,3 +9,15 @@ Prediction using Supervised ML
 ● What will be predicted score if a student studies for 9.25 hrs/ day?
 
 The predicted value of Scores if a student studies for 9.25 hrs/day is 93.
+
+# The Sparks Foundation Task 2
+Prediction using Unsupervised ML
+
+(Level - Beginner)
+
+● From the given ‘Iris’ dataset, predict the optimum number of clusters and
+represent it visually.
+● Use R or Python or perform this task
+● Dataset : https://bit.ly/3kXTdox
+
+The optimum number of clusters are 3
